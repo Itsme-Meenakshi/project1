@@ -96,4 +96,4 @@ with prediction confidence.
 
 ## 👩‍💻 Author
 
-Developed by Meenakshi ✨
+Developed by Meenakshi Santhosh M S✨
